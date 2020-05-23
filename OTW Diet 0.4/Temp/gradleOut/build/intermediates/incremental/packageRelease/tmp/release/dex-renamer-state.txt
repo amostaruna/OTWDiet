@@ -1,0 +1,4 @@
+#Sun May 24 01:49:31 ICT 2020
+base.0=D\:\\Project wpg\\testing endless run\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
